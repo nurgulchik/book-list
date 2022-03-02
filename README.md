@@ -1,1 +1,1 @@
-https://nurgulchik.github.io/book-list/task-11/index.html
+https://nurgulchik.github.io/book-list/index.html
